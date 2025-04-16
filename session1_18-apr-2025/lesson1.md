@@ -67,10 +67,6 @@ This is how most programmers start their journey. 😄
 
 ---
 
-Here's the revised version with **`uv` package manager** included under **Option 2**:
-
----
-
 ## 👨‍💻 How to Run Python Code (No installation needed)
 
 ### Option 1: Use [Google Colab](https://colab.research.google.com/)
