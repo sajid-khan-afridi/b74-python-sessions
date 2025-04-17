@@ -78,7 +78,7 @@ This is how most programmers start their journey. 😄
    ```python
    print("Hello, world!")
    ```
-5. Press **Shift + Enter** to run the code
+5. Press **Shift + Enter** or **Ctrl + Enter** to run the code
 
 🎉 Your first Python program is running in the cloud!
 
