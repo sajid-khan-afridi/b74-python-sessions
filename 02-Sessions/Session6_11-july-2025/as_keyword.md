@@ -20,11 +20,11 @@ print(arr)
 ```python
 import math as m
 
-result =  m.pow(2,4)
+result =  mt.pow(2,4)
 print(result)
 ```
 
-- **Here:** `np` is a shortcut for `numpy`.
+- **Here:** `np` is a shortcut for `numpy`. And `mt` is a shottcut for `math`.
 
 ### **Without `as`**
 
