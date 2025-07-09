@@ -37,7 +37,14 @@ arr = numpy.array([1, 2, 3])
 print(arr)
 ```
 
-- **Here:** You must write `numpy` everywhere.
+```python
+import math
+
+result =  math.pow(2,4)
+print(result)
+```
+
+- **Here:** You must write `numpy` and `math` everywhere.
 
 ---
 
