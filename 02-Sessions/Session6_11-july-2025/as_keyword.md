@@ -17,6 +17,13 @@ arr = np.array([1, 2, 3])
 print(arr)
 ```
 
+```python
+import math as m
+
+result =  m.pow(2,4)
+print(result)
+```
+
 - **Here:** `np` is a shortcut for `numpy`.
 
 ### **Without `as`**
