@@ -15,3 +15,9 @@ except ZeroDivisionError as e: # When we use as e, e is the instance of the Zero
 # except Exception as e: # When we use as e, e is the instance of the ZeroDivisionError exception
     print(f"Division by zero is not allowed: {ZeroDivisionError}")
     print(f"Division by zero is not allowed: {e}")
+
+try:
+    age = int(input("Enter your age: "))  # Invalid literal for `int()`
+    print("Your age is", age)
+except ValueError as e:#specific
+    print(f"Invalid input! Please enter a whole number. Error: {e}")
