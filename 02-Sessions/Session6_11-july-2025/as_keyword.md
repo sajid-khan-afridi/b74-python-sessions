@@ -52,6 +52,13 @@ print(result)
 
 ### **With `as`**
 
+### syntax
+
+`try:
+    # your code that might cause an error
+except ExceptionType as variable:
+    # code that uses the variable to see what error happened`
+
 You can assign the caught error to a variable and inspect or print details.
 
 ```python
