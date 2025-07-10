@@ -54,9 +54,10 @@ print(result)
 
 ### syntax
 
-```try:
+```python
+try:
     # your code that might cause an error
-except ExceptionType as variable:
+except Exception as <variable>:
     # code that uses the variable to see what error happened
 ```
 
