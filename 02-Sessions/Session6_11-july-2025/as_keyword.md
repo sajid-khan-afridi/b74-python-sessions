@@ -54,10 +54,10 @@ print(result)
 
 ### syntax
 
-`try:
+```try:
     # your code that might cause an error
 except ExceptionType as variable:
-    # code that uses the variable to see what error happened`
+    # code that uses the variable to see what error happened```
 
 You can assign the caught error to a variable and inspect or print details.
 
@@ -66,7 +66,7 @@ try:
     x = int(input("Enter a number: "))
 except Exception as e:
     print("Error occurred:", e)
-```
+````
 
 - **Here:** `e` holds the error details.
 
