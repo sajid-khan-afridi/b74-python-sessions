@@ -18,7 +18,7 @@ print(arr)
 ```
 
 ```python
-import math as m
+import math as mt
 
 result =  mt.pow(2,4)
 print(result)
