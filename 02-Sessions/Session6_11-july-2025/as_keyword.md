@@ -24,7 +24,7 @@ result =  mt.pow(2,4)
 print(result)
 ```
 
-- **Here:** `np` is a shortcut for `numpy`. And `mt` is a shottcut for `math`.
+- **Here:** `np` is a shortcut for `numpy`. And `mt` is a shortcut for `math`.
 
 ### **Without `as`**
 
